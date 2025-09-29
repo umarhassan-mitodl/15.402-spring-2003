@@ -4,6 +4,8 @@ description: 'Case: Wilson Lumber 2'
 file: /courses/15-402-finance-theory-ii-spring-2003/d94393a5f48e4467a9e321ca2b394ba0_assign2wilson2.pdf
 file_size: 83856
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

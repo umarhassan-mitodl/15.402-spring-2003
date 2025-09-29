@@ -4,6 +4,8 @@ description: Lecture 14 - Section A
 file: /courses/15-402-finance-theory-ii-spring-2003/51227cf624ebb0b4043c743d84e1335d_lec14awaccapv.pdf
 file_size: 101751
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

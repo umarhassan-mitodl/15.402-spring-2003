@@ -4,6 +4,8 @@ description: Lecture 10 - Section B
 file: /courses/15-402-finance-theory-ii-spring-2003/f42f43dab0b2bf2a3c3037b17bb94bb1_lec10bwrapupfinancing.pdf
 file_size: 201556
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

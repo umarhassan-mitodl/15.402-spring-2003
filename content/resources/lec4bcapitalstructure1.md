@@ -4,6 +4,8 @@ description: Lecture 4 - Section B
 file: /courses/15-402-finance-theory-ii-spring-2003/9febbe73939f812af3f3ab2701a8dff7_lec4bcapitalstructure1.pdf
 file_size: 340879
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

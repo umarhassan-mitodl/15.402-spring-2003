@@ -4,6 +4,8 @@ description: 'Case: Intel Corporation, 1992'
 file: /courses/15-402-finance-theory-ii-spring-2003/38e8119c46324ccd3b1c7ff65a919f48_assign6intel.pdf
 file_size: 64834
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

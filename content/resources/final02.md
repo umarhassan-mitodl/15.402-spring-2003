@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-402-finance-theory-ii-spring-2003/1b7794a483837216bde34614ff89f51b_final02.pdf
 file_size: 191773
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

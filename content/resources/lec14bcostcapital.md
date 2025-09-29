@@ -4,6 +4,8 @@ description: Lecture 14 - Section B
 file: /courses/15-402-finance-theory-ii-spring-2003/e443d44f154134f976fda9c95889f6b6_lec14bcostcapital.pdf
 file_size: 317851
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

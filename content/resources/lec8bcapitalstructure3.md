@@ -4,6 +4,8 @@ description: Lecture 8 Section B
 file: /courses/15-402-finance-theory-ii-spring-2003/44378851898a10a52d299fe70abd1107_lec8bcapitalstructure3.pdf
 file_size: 264496
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
