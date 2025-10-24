@@ -4,8 +4,6 @@ description: Lecture 24 - Section A
 file: /courses/15-402-finance-theory-ii-spring-2003/21fbc6c4d19e64b736ce06450b18e3ae_lec24awrapup.pdf
 file_size: 71682
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

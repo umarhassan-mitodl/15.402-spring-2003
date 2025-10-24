@@ -4,8 +4,6 @@ description: 'Case: Diamond Chemicals (A)'
 file: /courses/15-402-finance-theory-ii-spring-2003/b266149489b37738dc898567084a1645_assign9diamond.pdf
 file_size: 13755
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

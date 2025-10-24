@@ -4,8 +4,6 @@ description: 'Case: Debt Policy at UST Inc.'
 file: /courses/15-402-finance-theory-ii-spring-2003/21d63d17ce99e49701965558905fba51_assign3ustdebt.pdf
 file_size: 67045
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

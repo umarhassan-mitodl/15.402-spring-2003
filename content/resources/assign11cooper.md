@@ -4,8 +4,6 @@ description: ''
 file: /courses/15-402-finance-theory-ii-spring-2003/03599c72fb1f595f20ff64777bca5d14_assign11cooper.pdf
 file_size: 87869
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

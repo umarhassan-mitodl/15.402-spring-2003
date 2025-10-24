@@ -4,8 +4,6 @@ description: Lecture 1 - Section B
 file: /courses/15-402-finance-theory-ii-spring-2003/501c51301fad50e6ce8bf89c2f5f2ada_lec1bintroduction.pdf
 file_size: 301753
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

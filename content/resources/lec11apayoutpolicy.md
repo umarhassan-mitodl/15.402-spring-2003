@@ -4,8 +4,6 @@ description: Lecture 11 - Section A
 file: /courses/15-402-finance-theory-ii-spring-2003/02138a4d70fb48f2af680c82548dca8d_lec11apayoutpolicy.pdf
 file_size: 76990
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

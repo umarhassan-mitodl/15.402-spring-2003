@@ -4,8 +4,6 @@ description: 'Case: Cost of Capital at Ameritrade'
 file: /courses/15-402-finance-theory-ii-spring-2003/3a4dbf5cc0662a327720e0c564bff919_assign7ameritrade.pdf
 file_size: 62998
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
